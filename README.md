@@ -1,0 +1,2 @@
+#Zoe Camus. Ingenieria en Informatica
+#en el ejercicio "oop" (programacion orientada a objetos), el programa define clases como "profesor"y alumno", dentro de cada uno hay objetos que mediante metodos ("def metodo (self)") creamos objetos para luego relacionarlos entre si 
